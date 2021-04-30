@@ -65,6 +65,8 @@ Suggests:
     spelling (>= 2.2)
 VignetteBuilder: 
     knitr
+Remotes:
+    lionel-/pkgload@export-unregister
 Encoding: UTF-8
 Language: en-US
 Roxygen: list(markdown = TRUE)
